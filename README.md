@@ -28,7 +28,6 @@ This is a project to build a home automation device using ESP8266 NodeMCU Module
     | thinger.io                        | 2.20.0        | Alvaro Luis Bustamante <alvarolb@gmail.com>             |
     | Time                              | 1.6.1         | Michael Margolis                                        |
     | WiFiManager                       | 2.0.15-rc.1   | tzapu                                                   |
-    |--|--|--|
 
 ## LIBRARY INSTALLATION:
     1. Open Arduino IDE
