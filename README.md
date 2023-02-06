@@ -18,7 +18,7 @@ This is a project to build a home automation device using ESP8266 NodeMCU Module
 ## LIBRARY REQUIRED:
 
     | Library Name                      | Version       | Author                                                  |
-    |-----------------------------------|---------------|---------------------------------------------------------|
+    | --------------------------------- | ------------- | ------------------------------------------------------- |
     | Adafruit BusIO                    | 1.14.1        | Adafruit                                                |
     | Adafruit GFX Library              | 1.11.5        | Adafruit                                                |
     | Adafruit MCP23017 Arduino Library | 2.3.0         | Adafruit                                                |
@@ -33,6 +33,9 @@ This is a project to build a home automation device using ESP8266 NodeMCU Module
     1. Open Arduino IDE
     2. Go to Sketch -> Include Library -> Manage Libraries
     3. Search for the library name and install it
+
+## CIRCUIT DIAGRAM:
+<!-- include image -->
 
 
 	
