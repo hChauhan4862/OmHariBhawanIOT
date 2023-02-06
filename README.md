@@ -37,6 +37,9 @@ This is a project to build a home automation device using ESP8266 NodeMCU Module
 ## CIRCUIT DIAGRAM:
 <!-- include image -->
 
+![PCB_DIAGRAM](https://github.com/hChauhan4862/OmHariBhawanIOT/blob/main/PCB_DIAGRAM.png?raw=true)
+
+![CONNECTION_DIAGRAM.png](https://github.com/hChauhan4862/OmHariBhawanIOT/blob/main/CONNECTION_DIAGRAM.png?raw=true)
 
 	
 	
